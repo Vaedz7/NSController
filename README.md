@@ -8,6 +8,7 @@ Automate Nintendo Switch actions and create Nintendo Switch bots using the NSCon
 
 ## Current Features
 - [x] Easy to Use NSController Python Module
+- [ ] Easy to Use Controller Windows Application
 
 ## How to Use
 See sample.py for a sample script written with NSController
