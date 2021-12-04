@@ -1,6 +1,6 @@
 import socket
 import time
-import datetime
+from datetime import datetime
 import binascii
 
 def send(s, content):
