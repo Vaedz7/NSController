@@ -13,7 +13,7 @@ Automate Nintendo Switch actions and create Nintendo Switch bots using the NSCon
 ## How to Use
 See sample.py for a sample script written with NSController - Python Module
 
--
+--
 
 Download NSController.exe and all config files from NSController - Windows Application
 
