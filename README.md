@@ -1,5 +1,5 @@
-#NSController
-
+NSController
+-
 NSController is a Python Library for Nintendo Switch Automation using sys-botbase.
 
 Current Version
