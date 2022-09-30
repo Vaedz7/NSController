@@ -1,4 +1,4 @@
-NSController
+NSController [DISCONTINUED]
 -
 NSController is a Python Library for Nintendo Switch Automation using sys-botbase.
 
@@ -15,8 +15,6 @@ Features
 Latest Version
 -
 Version v1.1.0 UNRELEASED
-
-Expected Release - March 2022
 
 v1.1.0 Features
 -
